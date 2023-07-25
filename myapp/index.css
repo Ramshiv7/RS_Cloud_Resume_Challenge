@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+@import url('https://fonts.googleapis.com/css?family=Belanosima');
+
+body{
+  padding: 40px;
+  background-color: #c8925c;  
+  font-family: Belanosima;
+}
+
+img{
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+h1 {
+  
+  white-space: nowrap;
+  overflow: hidden;    
+  font-family: 'Source Code Pro', monospace;  
+  font-size: 28px;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+td {
+  color: rgb(0, 94, 255);
+}
+
+i {
+  color: rgb(29, 0, 103);
+}
+
+
+.exp, .expOld{
+  font-size: 20px;
+}
